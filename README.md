@@ -1,0 +1,68 @@
+# grentperez – Clementine
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:10.43] I've been changin'
+[00:14.98] But the burnin' stays the same
+[00:17.95] What can I do to tame the heat of this fire?
+[00:23.93] Forever savin'
+[00:27.37] The remnants of a love
+[00:30.57] Like ancient stories told from another time
+[00:36.45] Eternally painted on my mind
+[00:43.56] Mmm
+[00:45.06] 
+[00:46.16] Color it gray
+[00:48.95] Until I forget you
+[00:52.26] Like I never met you
+[00:55.22] My dearest Clementine
+[00:58.49] Throw it away
+[01:01.33] But close enough to you
+[01:04.56] 'Cause although I hate you
+[01:07.84] I will still fall in love, my Clementine
+[01:13.98] Every time, mmm
+[01:21.48] 
+[01:23.53] And if you're fadin'
+[01:26.62] Then honey I'll be fadin' too
+[01:29.84] Darling, I don't even know who I am without you
+[01:35.70] Forever waitin'
+[01:38.58] Times never wasted and still
+[01:42.97] I find myself growin' old over you
+[01:59.97] 
+[01:48.52] You came in a dream
+[01:50.23] You touched the depths of my mind
+[01:55.52] Oh, no, no, no
+[02:02.52] 
+[01:58.11] Color it gray
+[02:00.99] Until I forget you
+[02:04.21] Like I never met you
+[02:07.73] My dearest Clementine
+[02:10.67] Throw it away
+[02:13.65] But close enough to you
+[02:16.72] 'Cause although I hate you
+[02:19.82] I will still fall in love, my Clementine
+[02:25.98] Every time, always
+[02:34.98] 
+[02:33.30] No matter how hard I try
+[02:35.80] My Clementine, every time
+[02:42.33] Oh, oh, oh, oh
+[02:49.33] 
+[02:51.36] Color it gray
+[02:54.26] Until I forget you
+[02:57.69] Like I never met you
+[03:00.52] My dearest, my dearest Clementine
+[03:03.88] Color it gray
+[03:07.08] Until I forget you
+[03:09.86] Like I never met you (oh, oh)
+[03:13.33] My dearest Clementine (my dearest Clementine)
+[03:16.53] Throw it away
+[03:19.34] But close enough to you
+[03:22.27] 'Cause although I hate you ('cause although I hate you)
+[03:25.65] I will still fall in love, my Clementine (I'll still fall in love)
+[03:31.79] Every time, always
+[03:40.79] 
+[03:38.88] No matter how hard I try
+[03:41.73] My Clementine, every time
+[03:47.36] Mmm, mmm
+[03:51.20] You're always on my mind
+```
