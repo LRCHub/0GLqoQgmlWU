@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Clementine",
+  "base_artist": "grentperez",
+  "createdAt": "2025-12-30T02:04:49.825312Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Clementine",
+      "artist": "Helium",
+      "has_synced": false,
+      "path": "select/01_Clementine_Helium.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Clementine",
+      "artist": "The Decemberists",
+      "has_synced": false,
+      "path": "select/02_Clementine_The_Decemberists.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Clementine",
+      "artist": "Elliott Smith",
+      "has_synced": true,
+      "path": "select/03_Clementine_Elliott_Smith.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hallelujah Money (feat. Benjamin Clementine)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/04_Hallelujah_Money_(feat._Benjamin_Clementine)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "clementine",
+      "artist": "Halsey",
+      "has_synced": true,
+      "path": "select/05_clementine_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hang On, Clementine!",
+      "artist": "The Rembrandts",
+      "has_synced": false,
+      "path": "select/06_Hang_On,_Clementine!_The_Rembrandts.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Clementine Cherie",
+      "artist": "Rita Pavone",
+      "has_synced": false,
+      "path": "select/07_Clementine_Cherie_Rita_Pavone.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Clementine",
+      "artist": "grentperez",
+      "has_synced": true,
+      "path": "select/08_Clementine_grentperez.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Clementine",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/09_Clementine_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hallelujah Money (feat. Benjamin Clementine)",
+      "artist": "Gorillaz feat. Benjamin Clementine",
+      "has_synced": true,
+      "path": "select/10_Hallelujah_Money_(feat._Benjamin_Clementine)_Gorillaz_feat._Benjamin_Clementine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hallelujah Money (feat. Benjamin Clementine)",
+      "artist": "Gorillaz, Benjamin Clementine",
+      "has_synced": true,
+      "path": "select/11_Hallelujah_Money_(feat._Benjamin_Clementine)_Gorillaz,_Benjamin_Clementine.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Clementine",
+      "artist": "Bobby Darin",
+      "has_synced": false,
+      "path": "select/12_Clementine_Bobby_Darin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Clementine",
+      "artist": "grentperez",
+      "has_synced": false,
+      "path": "select/pl_01_Clementine_grentperez.txt"
+    }
+  ]
+}
